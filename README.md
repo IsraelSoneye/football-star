@@ -1,2 +1,2 @@
 # football-star
-Contains search Google search page of Lionel Messi
+Contains Google search page of Lionel Messi
